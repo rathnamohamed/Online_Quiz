@@ -27,7 +27,7 @@
 } </style>  
 </head>  
 <body>  
-     <center><h1>CREATE REGISTRATION AND LOGIN FORM USING PHP AND MYSQL</h1></center>  
+     <center><h1>Online Quiz System</h1></center>  
    <p><a href="register.php">Register</a> | <a href="login.php">Login</a></p>  
 <h3>Login Form</h3>  
 <form action="" method="POST">  
